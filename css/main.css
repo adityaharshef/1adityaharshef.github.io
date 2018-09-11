@@ -1337,7 +1337,7 @@ section.close-menu {
 
 ===========================================================*/
 .testim .title h1:before {
-  content: 'Testimonials'; }
+  content: 'Quotes'; }
 .testim .tabbable {
   position: relative; }
   .testim .tabbable .list-tabs {
@@ -1378,15 +1378,15 @@ section.close-menu {
     width: 50px;
     border-radius: 50%; }
     .testim .tabbable .image-tab.image-testim1 {
-      background-image: url(http://via.placeholder.com/3000x2000); }
+      background-image: url(../images/quote1.jpg); }
     .testim .tabbable .image-tab.image-testim2 {
-      background-image: url(http://via.placeholder.com/3000x2000); }
+      background-image: url(../images/quote2.jpg); }
     .testim .tabbable .image-tab.image-testim3 {
-      background-image: url(http://via.placeholder.com/3000x2000); }
+      background-image: url(../images/quote3.jpeg); }
     .testim .tabbable .image-tab.image-testim4 {
-      background-image: url(http://via.placeholder.com/3000x2000); }
+      background-image: url(../images/quote4.jpg); }
     .testim .tabbable .image-tab.image-testim5 {
-      background-image: url(http://via.placeholder.com/3000x2000); }
+      background-image: url(../images/quote5.jpg); }
   .testim .tabbable .tab-content {
     margin: auto;
     margin-bottom: 70px; }
@@ -1427,7 +1427,7 @@ section.close-menu {
         font-weight: 600;
         padding-top: 10px; }
 .testim .client {
-  background-image: url(http://via.placeholder.com/3000x2000);
+  background-image: url(../images/home4.jpg);
   width: 100%;
   position: relative; }
   .testim .client .overlay-cl {
