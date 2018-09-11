@@ -719,7 +719,7 @@ section:not(:first-of-type) {
     z-index: 1;
     height: 80px; }
     .navbar .logo .bg_logo {
-      background-image: url(http://via.placeholder.com/60x60);
+      background-image: url(https://raw.githubusercontent.com/adityaharshef/adityaharshef.github.io/master/images/icons/A.png);
       /* Here The Logo */
       background-size: 50px;
       background-repeat: no-repeat;
@@ -979,7 +979,7 @@ section.close-menu {
 
 /* Start Particles Background */
 .home .particles {
-  background-image: url(http://via.placeholder.com/4000x3500);
+  background-image: url(http://via.placeholder.com/4000x350);
   /* Here You Can Edit the image of Header (Background Particles)  */
   background-size: cover;
   background-repeat: no-repeat;
