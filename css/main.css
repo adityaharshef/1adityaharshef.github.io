@@ -979,7 +979,7 @@ section.close-menu {
 
 /* Start Particles Background */
 .home .particles {
-  background-image: url(http://via.placeholder.com/4000x350);
+  background-image: url(../images/home7.jpg);
   /* Here You Can Edit the image of Header (Background Particles)  */
   background-size: cover;
   background-repeat: no-repeat;
@@ -1200,7 +1200,7 @@ section.close-menu {
 
 ===========================================================*/
 .serv .title h1:before {
-  content: 'services'; }
+  content: 'work experience'; }
 .serv .content {
   margin-bottom: 40px;
   padding-left: 10px; }
@@ -1214,7 +1214,7 @@ section.close-menu {
     color: #555;
     letter-spacing: 0.3px; }
 .serv .serv-vid {
-  background-image: url(http://via.placeholder.com/2500x1500);
+  background-image: url(../images/home1.jpg);
   width: 90%;
   height: 90%;
   border-radius: 4px;

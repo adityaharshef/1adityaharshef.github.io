@@ -96,10 +96,10 @@ section {
     }
 }
 
-.bg-image { 
-	background-position: center center; 
-	background-size: cover; 
-	background-repeat: no-repeat; 
+.bg-image {
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 section:not(:first-of-type) {
@@ -240,7 +240,7 @@ section:not(:first-of-type) {
         z-index: 1;
         height: 80px;
         .bg_logo {
-            background-image: url(http://via.placeholder.com/60x60); /* Here The Logo */ 
+            background-image: url(http://via.placeholder.com/60x60); /* Here The Logo */
             background-size: 50px;
             background-repeat: no-repeat;
             background-position: center;
@@ -389,7 +389,7 @@ section.close-menu {
     }
 
     /* End of Zoom out Keyframes */
-    
+
     .title {
         position: absolute;
         top: 50%;
@@ -423,7 +423,7 @@ section.close-menu {
                     box-shadow: none;
                 }
             }
-        }  
+        }
     }
 }
 
@@ -631,7 +631,7 @@ section.close-menu {
         overflow: hidden;
     }
     .about-img {
-        background-image: url(http://via.placeholder.com/3000x1500); /* Here You can edit your personal image */
+        background-image: url(../images/aditya1.jpg); /* Here You can edit your personal image */
         height: 350px;
         width: 85%;
         margin: auto;
@@ -724,7 +724,7 @@ section.close-menu {
                         }
                     }
                     &:last-child {
-                        margin-bottom: 0; 
+                        margin-bottom: 0;
                     }
                 }
             }
@@ -854,7 +854,7 @@ section.close-menu {
                 }
             }
         }
-        
+
     }
     .gallery {
         .item {
